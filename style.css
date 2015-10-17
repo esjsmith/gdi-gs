@@ -1,0 +1,108 @@
+ /*styles for the whole page*/
+body {
+     background-color: #DDDDDD;
+     margin: 0; 
+     font-family: Helvetica
+} 
+p a {
+    font-style: italic;
+    color: #00838c;
+}
+.container {
+     width: 80%;
+     margin: auto;
+}
+.clear {
+    clear: both;
+}
+
+
+
+/*Header and top links*/
+header {
+     background-color: #f95a61;
+}
+ul {
+     list-style: none;
+     float: right; 
+     margin: 0;
+}
+li {
+    display: inline-block;
+} 
+header li a {
+    display: inline-block;
+    padding: 3rem 1rem 3rem 1rem;
+    text-decoration: none;
+    color: white;
+    font-size: 1.3em;
+    vertical-align: top;
+}
+header li a:hover {
+    background-color: black;
+}
+
+
+
+
+/*"Our Story section"*/
+.headline {
+    text-align: center;
+    margin-top: 60px;
+}
+.headline h2 {
+    font-size: 1.5em;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+.headline hr {
+    border: 0;
+    width: 400px;
+    height: 6px;
+    border-top: 2px solid #d8ae64;
+    border-bottom: 2px solid #d8ae64;
+    margin-bottom: 30px;
+}
+.large {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+
+
+
+/*"Our Team section"*/
+.panda {
+    background-color: white; 
+    padding-bottom: 1em;
+}
+.headline img {
+     margin-top: 2em;
+}
+.profile {
+    text-align: center;
+}
+.profile p {
+     text-align: left;
+}
+.profile-left {
+    float: left;
+    width: 48%;
+    margin-right: 2%;
+               
+}
+.profile-right {
+    float: right;
+    width: 48%;
+}
+
+
+
+
+/*footer*/
+footer {
+    min-height: 20px;
+    background-color: #2a4758;
+            
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 400 400" style="enable-background:new 0 0 400 400;" xml:space="preserve">
+<style type="text/css">
+	path{fill:none;stroke:#000000;stroke-miterlimit:10;}
+  .funny-shape {fill:#BBBBBB;}
+  .flat-shape {fill:blue;}
+  .oblong {fill:yellow;}
+  .star {fill:#EEEEEE;}
+  .oval {fill: red;}
+</style>
+<g>
+	<g>
+		<path d="M95.4,90.9c3.2,0,3.2-5,0-5C92.2,85.9,92.2,90.9,95.4,90.9L95.4,90.9z"/>
+	</g>
+</g>
+<path class="funny-shape " d="M135.5,106.2c-50.3,29.9-87.3-28.7-50.3,29.9s-75.8,91.1,36.9,58.6s39.5-136.3,39.5-136.3
+	S185.9,76.3,135.5,106.2z"/>
+<path class="flat-shape " d="M95.4,88.4c5.7-1.8,11-7.9,11.5-14c1.2-17.8-38.9-40.1-52.2-30.6c-7.6,5.4-8.4,22.5-1.3,29.9
+	c2.2,2.3,3.7,2.2,12.1,5.1C85.6,85.7,88.9,90.4,95.4,88.4z"/>
+<path class="oblong" d="M317.6,168.7l-80.7,4.2c-5.4,0.3-9.7-5.2-9.7-12.2v-32.9c0-7,4.3-13.4,9.7-14.3l80.7-13.5
+	c7.3-1.2,13.5,4.6,13.5,13v39.7C331.1,161.1,325,168.3,317.6,168.7z"/>
+<polygon class="star " points="265.5,190.3 237.7,230 247.6,282.3 212.1,257 183.3,278.5 186.4,232.1 162.8,201.8 193.3,191.5 
+	206,145.7 224.6,187.5 "/>
+<path class="oval" d="M113.1,325.6c0,24.1-15.3,37.1-32.6,29.6c-15.8-6.8-27.6-28.5-27.6-48.9c0-20.4,11.8-34.5,27.6-31.2
+	C97.8,278.7,113.1,301.5,113.1,325.6z"/>
+</svg>
